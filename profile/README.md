@@ -1,9 +1,18 @@
 ## Space exploration made fun
 
-An open-source Lunar Colony sim built for industry applications and enthusiasts
+# LunCo: full-cycle space operations sim tool
 
-Inspired by
+An open-source Lunar Colony sim built for **engineers** and **enthusiasts**
+
+*Inspired by*
 * Games: KSP, SimCity, Factorio
 * Professional: AGI, Solidworks, Ansys
 
-Opensource and **free** for commercial use.
+Free for **commercial use**.
+
+***[OUR GITCOINT GRANT](https://gitcoin.co/grants/5939/lunco-full-cycle-space-operations-sim-tool)***
+
+*PS Making Kerbal a real thing. Intended for industry applications*
+
+*[DOWNLOAD BINARY](https://github.com/lun-co/lunco-game/releases)*
+
