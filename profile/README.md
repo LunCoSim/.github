@@ -4,15 +4,21 @@
 
 An open-source Lunar Colony sim built for **engineers** and **enthusiasts**
 
+**Start Development**: *[Main project repo](https://github.com/LunCoSim/lunco-sim)*
+
 *Inspired by*
 * Games: KSP, SimCity, Factorio
 * Professional: AGI, Solidworks, Ansys
 
-Free for **commercial use**.
+Free for **commercial use**. Making Kerbal a real thing. Intended for industry applications
+
+*[DOWNLOAD BINARY](https://difint.itch.io/lunco)*
+
+**Support the project:**
 
 ***[GITCOINT GRANT](https://gitcoin.co/grants/5939/lunco-full-cycle-space-operations-sim-tool)***
 
-*PS Making Kerbal a real thing. Intended for industry applications*
 
-*[DOWNLOAD BINARY](https://difint.itch.io/lunco)*
+
+
 
