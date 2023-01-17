@@ -1,10 +1,21 @@
 ## Space exploration made fun
 
-# LunCo: full-cycle space operations sim tool
+# LunCo: opensource engineering software to make Space Exploration accessible to all!
 
-An open-source Lunar Colony sim built for **engineers** and **enthusiasts**
+### **Support the project**
 
-**Start Development**: *[Main project repo](https://github.com/LunCoSim/lunco-sim)*
+LunCo is a free and opensource product supported by community. 
+
+**Please consider donating us** on ***[GITCOINT GRANT](http://bit.ly/3kfZ25r)***
+
+During Gitcoin GR15  ~130 bakers supported the project, raising LunCo ~$12 000
+
+It allowed to reach a lot of professional space communities. 
+
+
+### **Start Development** 
+
+*[Main project repo](https://github.com/LunCoSim/lunco-sim)*
 
 *Inspired by*
 * Games: KSP, SimCity, Factorio
@@ -14,9 +25,9 @@ Free for **commercial use**. Making Kerbal a real thing. Intended for industry a
 
 *[DOWNLOAD BINARY](https://difint.itch.io/lunco)*
 
-**Support the project:**
 
-***[GITCOINT GRANT](https://gitcoin.co/grants/5939/lunco-full-cycle-space-operations-sim-tool)***
+
+
 
 
 
