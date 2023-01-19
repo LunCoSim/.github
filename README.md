@@ -1,2 +1,2 @@
 # .github
-LunCo – Full Cycle Lunar Colony sim. Kind of a game...
+LunCo – opensource engineering software for Space Missions design
