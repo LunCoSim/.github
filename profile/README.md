@@ -6,11 +6,7 @@
 
 LunCo is a free and opensource product supported by community. 
 
-**Please consider donating us** on ***[GITCOINT GRANT](http://bit.ly/3kfZ25r)***
-
-During Gitcoin GR15  ~130 bakers supported the project, raising LunCo ~$12 000
-
-It allowed to reach a lot of professional space communities. 
+**Please consider donating us** on ***[GITCOINT GG18 OSS ROUND](https://explorer.gitcoin.co/#/round/10/0x8de918f0163b2021839a8d84954dd7e8e151326d/0x8de918f0163b2021839a8d84954dd7e8e151326d-75)***
 
 
 ### **Start Development** 
