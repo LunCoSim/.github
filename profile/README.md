@@ -5,9 +5,6 @@
 ![](https://gateway.lighthouse.storage/ipfs/bafybeibtwxdybz5onr5zwqotia64lbsgju6r55nwp23bosd4mxwy25siqa)
 
 
-**[Support us on Juicebox](https://juicebox.money/v2/p/763)**
-
-
 ![](https://gateway.lighthouse.storage/ipfs/bafybeidjpafb6zg5lalug7z5sfzvszh2erskbbdqcloejr2asex2lfg4ky)
 
 ## [Try in Browser](https://alpha.lunco.space)
